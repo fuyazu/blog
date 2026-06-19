@@ -1,5 +1,5 @@
 baseURL = "https://ghaniafza.github.io/blog"
-title = "Ghania Fayyaza"
+title = "nia's writings"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "Notes and thoughts"
-  copyright = "Copyright © 2026 Ghania Fayyaza"
+  copyright = "Copyright © 2026 Ghania Fayyaza Safwa"
   dark = "auto"
   highlight = true
 
